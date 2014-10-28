@@ -1,4 +1,4 @@
-
+Build a Blog using the Hapi.js Framework.
 
 ## Original Requirements
 
